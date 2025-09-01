@@ -1,0 +1,32 @@
+{
+  "remember_me": false,
+  "saved_email": "",
+  "saved_key": "",
+  "refresh_rate": 5,
+  "theme": "System",
+  "column_order": [
+    "MEXC",
+    "Bitget",
+    "Bybit",
+    "GateIO",
+    "CoinEX",
+    "BingX",
+    "OKX",
+    "Bitunix",
+    "KuCoin",
+    "Hyperliquid",
+    "Backpack",
+    "BTCC",
+    "Paradex",
+    "Binance",
+    "Dydx",
+    "Deepcoin",
+    "Woox",
+    "BloFin",
+    "WebSea",
+    "DigiFinex",
+    "Voox"
+  ],
+  "hidden_columns": [],
+  "history_days": 60
+}
